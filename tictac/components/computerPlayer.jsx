@@ -29,7 +29,7 @@ if (boardGame[4] != '') {
     //step 3
     if (boardGame[0] == 'x' && boardGame[8] == 'x' && boardGame[4] == '') {
       console.log('fill boardGame[4]');
-    } else{
+    } else {
 
     }
 

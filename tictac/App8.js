@@ -1,6 +1,6 @@
 import Board from "./components/Board";
 import BoardOnePlayer from "./components/BoardOnePlayer";
-import Cell from "./components/Cell";
+
 
 function App8() {
 
